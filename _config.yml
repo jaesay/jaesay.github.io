@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "김재성"
 description              : "프로그래밍 학습 블로그"
 url                      : "https://jaesay.github.io"
-baseurl                  : "/blog"
+baseurl                  : # "/blog"
 repository               : "jaesay/jaesay.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
