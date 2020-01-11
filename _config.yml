@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "JAESAY"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "김재성"
+name                     : "Kim Jaeseong"
 description              : "프로그래밍 학습 블로그"
 url                      : "https://jaesay.github.io"
 baseurl                  : # "/blog"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Kim Jaeseong"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "프로그래밍 학습 블로그"
+  location         : "Incheon,Korea"
+  email            : "jaesay@ajou.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,10 +124,10 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/zaeseong"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jaesay"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
