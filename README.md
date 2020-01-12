@@ -1,5 +1,5 @@
 # 블로그
-Jekyll과 GitHub Page를 사용하여 만든 [블로그](https://jaesay.github.com)
+Jekyll과 GitHub Page를 사용하여 만든 [블로그](https://jaesay.github.io)
 ## 참고 자료
 - [Tacademy](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=171)
     - GitHub Page로 블로그 만드는 법 
