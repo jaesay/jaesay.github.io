@@ -7,7 +7,7 @@ Jekyll과 GitHub Page를 사용하여 만든 [블로그](https://jaesay.github.i
     - [minimal-mistakes: reference1](https://devinlife.com/)
     - [Liquid(template language)](https://shopify.github.io/liquid/)
     
-- 블로그 만들기 동영상[YouTube: DataOptimal](https://github.com/jaesay/study/tree/master/rest-api-with-spring)
+- 블로그 만들기 온라인 강의
     - [Tacademy](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=171)
     - [YouTube: DataOptimal](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=171)
     - [YouTube: lovetoken 1](https://www.youtube.com/watch?v=pGTdfWhgkrg&list=LL-hzYKsKn9-ZjeBE4s8GmxQ&index=5&t=1944s)
